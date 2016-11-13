@@ -1,4 +1,4 @@
-VPSCoin
+VPSCoin ⍱
 =======
 VPSCoin is new digital cryptocurrency like Bitcoin that enables instant payments to anyone, anywhere in the world. VPSCoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. VPSCoin uses X13 algorithm with PoW/PoS hybird and has 50 ⍱ "coins" per block found. with total coins 21 millions
 
