@@ -28,3 +28,19 @@ Confirmations : 6
 Block Maturity : 50
 
 RPC port : 21811  P2P port : 21812  Connection : 21813 
+
+
+
+LINKS
+=======
+
+home page : https://vpscoin.org
+
+online wallet : https://vpscoin.me
+
+Block explorer : http://vpscoin.info:85
+
+
+License
+=======
+VPSCoin is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
