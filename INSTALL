@@ -1,0 +1,9 @@
+Building VPSCoin
+
+See doc/readme-qt.rst for instructions on building VPSCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VPSCoin.
+
+See doc/build-*.txt for instructions on building VPSCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of VPSCoin.
