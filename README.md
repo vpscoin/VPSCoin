@@ -40,6 +40,8 @@ online wallet : https://vpscoin.me
 
 Block explorer : http://vpscoin.info:85
 
+bitcointalk thread : https://bitcointalk.org/index.php?topic=1678889.0
+
 
 License
 =======
