@@ -44,3 +44,12 @@ Block explorer : http://vpscoin.info:85
 License
 =======
 VPSCoin is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
+
+
+Support VPSCoin
+=======
+
+BTC : 1FEWYDWeg5qQByT5WxuzNuT8zwJZvKT5P3
+
+⍱ : VGHJ3cFSZyEzyyREsvja1ueacYeGJnxg2o
+
