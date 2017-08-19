@@ -36,9 +36,9 @@ LINKS
 
 home page : https://vpscoin.org
 
-online wallet : https://vpscoin.me
+online wallet : https://vpscoin.me 
 
-Block explorer : http://vpscoin.info:85
+Block explorer : http://vpscoin.info
 
 bitcointalk thread : https://bitcointalk.org/index.php?topic=1678889.0
 
